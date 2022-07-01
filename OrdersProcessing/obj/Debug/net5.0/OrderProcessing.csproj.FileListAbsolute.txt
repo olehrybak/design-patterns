@@ -1,0 +1,15 @@
+/Users/olegrybak/Desktop/en/bin/Debug/net5.0/OrderProcessing.deps.json
+/Users/olegrybak/Desktop/en/bin/Debug/net5.0/OrderProcessing.runtimeconfig.json
+/Users/olegrybak/Desktop/en/bin/Debug/net5.0/OrderProcessing.runtimeconfig.dev.json
+/Users/olegrybak/Desktop/en/bin/Debug/net5.0/OrderProcessing.dll
+/Users/olegrybak/Desktop/en/bin/Debug/net5.0/ref/OrderProcessing.dll
+/Users/olegrybak/Desktop/en/bin/Debug/net5.0/OrderProcessing.pdb
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.csproj.AssemblyReference.cache
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.AssemblyInfoInputs.cache
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.AssemblyInfo.cs
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.csproj.CoreCompileInputs.cache
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.dll
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/ref/OrderProcessing.dll
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.pdb
+/Users/olegrybak/Desktop/en/obj/Debug/net5.0/OrderProcessing.genruntimeconfig.cache
